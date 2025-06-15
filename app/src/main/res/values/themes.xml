@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- In res/values/themes.xml -->
+    <style name="Theme.JDMovie" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+</resources>
